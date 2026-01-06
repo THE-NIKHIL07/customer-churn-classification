@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# TensorBoard logs
+logs/
+
+# Virtual environments
+ann_project/
+.env/
+
+# Model & encoders (OPTIONAL – remove if you want to push them)
+# *.h5
+# *.pkl
+
+# OS files
+Thumbs.db
+.DS_Store
